@@ -25,9 +25,7 @@ public class MinMax {
 		}
 		System.out.println(min);
 		System.out.println(max);
-		for(int i=min;i<=max;i++) {
-			System.out.println(i);
-		}
+	
 		
 	}
 }
